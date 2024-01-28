@@ -1,3 +1,9 @@
+# Command to solve babel dependency issue:
+# npm install --save-dev @babel/plugin-proposal-private-property-in-object
+or 
+# npm install --save-dev @babel/plugin-proposal-private-property-in-object --legacy-peer-deps
+# https://stackoverflow.com/questions/76435306/babel-preset-react-app-is-importing-the-babel-plugin-proposal-private-propert
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
