@@ -1,3 +1,5 @@
+# Portfolio Template (Purple)
+
 # Command to solve babel dependency issue:
 # npm install --save-dev @babel/plugin-proposal-private-property-in-object
 or 
